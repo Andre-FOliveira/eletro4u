@@ -1,0 +1,28 @@
+@media (max-width: 1280px) {}
+
+@media (max-width: 967px) {}
+
+@media (max-width: 768px) {}
+
+@media only screen and (max-width: 600px) {
+	nav {
+		height: auto;
+	}
+	ul {
+		flex-direction: column;
+		height: auto;
+	}
+	li {
+		margin: 10px 0;
+	}
+}
+
+@media (max-width: 548px) {}
+
+@media (max-width: 499px) {}
+
+@media (max-width: 425px) {}
+
+@media (max-width: 425px) {}
+
+@media (max-width: 310px) {}
