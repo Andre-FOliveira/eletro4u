@@ -27,13 +27,20 @@
 }
 
 @media (max-width: 600px) {
-	.navbar {
-		margin-top: 100px;
+	.navbar a span {
+		font-size: 10px;
 	}
 
-	.navbar:hover {
-		padding-right: 130px;
+	.navbar:hover a span {
+		margin-left: -10px;
 	}
+
+	nav .navbar-item i {
+		width: 3px;
+
+	}
+
+
 }
 
 @media (max-width: 548px) {}
