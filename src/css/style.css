@@ -195,8 +195,6 @@ body {
   align-items: flex-start;
   box-shadow: 0 0 8px 8px #03e9f4;
   background-color: rgba(22, 34, 48, 0.9);
-  border-radius: 30% 30% 0 0;
-
 }
 
 .navbar a {
